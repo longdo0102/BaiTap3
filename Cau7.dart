@@ -3,7 +3,7 @@ import 'dart:math';
 void luythua(int a, int b){
     num result;
 	result = pow(a,b);
-	print("Ket qua : $result");
+	print("$a ^ $b = $result");
 }
 void main(){
      print("Nhap co so: ");
